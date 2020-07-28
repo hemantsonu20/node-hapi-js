@@ -1,0 +1,23 @@
+{
+  "name": "node-hapi-js",
+  "version": "1.0.0",
+  "description": "A sample node application with hapi js",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "nodemon server/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "hapi",
+    "hapi-js"
+  ],
+  "author": "hemantsonu20@gmail.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@hapi/hapi": "^19.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
