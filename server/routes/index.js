@@ -1,3 +1,4 @@
 const aliveRoute = require('./aliveRoute');
+const productRoutes = require('./productRoutes');
 
-module.exports = [aliveRoute];
+module.exports = [aliveRoute, ...productRoutes];
