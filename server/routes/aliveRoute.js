@@ -4,6 +4,9 @@ const aliveRoute = {
   handler: (request, h) => {
     return 'OK';
   },
+  options: {
+    tags: ['api'],
+  },
 };
 
 module.exports = aliveRoute;
