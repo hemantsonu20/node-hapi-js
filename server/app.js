@@ -33,4 +33,4 @@ const init = async () => {
   console.log(`Server running on ${server.info.uri}`);
 };
 
-  init();
+init();
