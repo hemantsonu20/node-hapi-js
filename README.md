@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/hemantsonu20/node-hapi-js/workflows/Node.js%20CI/badge.svg)
+
 # node-hapi-js
 
 A sample node application with hapi framework.
